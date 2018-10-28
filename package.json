@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/SeonghuiChoe/prac-react-redux/issues"
   },
-  "homepage": "https://github.com/SeonghuiChoe/prac-react-redux#readme"
+  "homepage": "https://github.com/SeonghuiChoe/prac-react-redux#readme",
+  "dependencies": {
+    "react": "^16.6.0"
+  }
 }
